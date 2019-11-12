@@ -3,8 +3,8 @@ const Navbar = (props) => (
     <div className= "navbar">
       <nav className ="navbar-menu">
         <div className="navbar-start">
-          <a className="navbar-item" href="#what-to-expect">Current Projects</a>
-          <a className="navbar-item" href="#organizers">Follow Me!</a>
+          <a className="navbar-item" href="#current-projects">Current Projects</a>
+          <a className="navbar-item" href="#socials">Stay Connected</a>
         </div>
         <div className="navbar-end">
          {<a className="navbar-item" href="https://twitter.com/_gilbproducing" target="_blank">Twitter</a>}
@@ -15,7 +15,7 @@ const Navbar = (props) => (
               <a
                 className="button is-white"
                 href="#signup">
-                <span>Sign Up</span>
+                <span>Newsletter</span>
               </a>
   </p>
           </div>

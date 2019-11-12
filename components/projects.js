@@ -1,35 +1,35 @@
 const CurrentProjects = () => (
     <div>
-    <div id="what-to-expect" className="section" style={{'textAlign': 'center'}}>
+    <div id="current-projects" className="section" style={{'textAlign': 'center'}}>
       <h1 className="title is-2">Current Projects</h1>
       </div>
       <div className="columns">
-        <div className="column ">
-          <h3 className="title is-3">2nd Shift Consulting</h3>
-          <p>Connect with other ambitious individuals in a variety of different fields. Gain access to other perspectives and brainstorm for your passion projects. 9/10 there is someone available who has had some skin in the field, no cost to you.
-          </p>
-        </div>
-        <div className="column">
-          <h3 className="title is-3">WRKFLW</h3>
-          <p>It’s hard to make time for your projects and even yourself. Get the chance to attend free live classes and workshops for various topics, discuss dreams, or even toss around ideas. 
-            </p>
-        </div>
-      </div>
-      <div className="columns">
        <div className="column">
+       <img src="/static/syspod.png" alt="" target="_blank"></img>
           <h3 className="title is-3">Shoot Your Shot Podcast</h3>
           <p>Hey, we’re all here to grow our networks, relax, vibe and get productive. We will be having weekly discussions centered around growing comfortability 
             in expressing our ideas and becoming tighter knit in the process. Plain and simple! </p>
        </div>
         <div className="column">
+        <img src="/static/gilbproducing.jpg" alt="" target="_blank"></img>
           <h3 className="title is-3">Foxworth Consulting</h3>
-          <p>There is no commitment necessary. Everybody is dealing with enough priority overload already. We should flow, and that’s just how it goes.</p>
+          <p>There is no commitment necessary. Everybody is dealing with enough priority overload already. We should flow, and that’s just how it goes. Fox 
+            will eventually tell thew world what he wants to do and when that's decided it will be here. 
+          </p>
         </div>
       </div>
       <style jsx>{`
-        #what-to-expect {
+        #current-projects {
           text-align: center;
           background-color: white;
+        }
+        img {
+          height: 250px;
+          width:  250px;
+          margin-bottom:10px;
+          margin-left: 175px;
+          border-radius: 50%;
+          text-align: center;
         }
         .elevator {
           text-align: center;
@@ -38,9 +38,8 @@ const CurrentProjects = () => (
           font-weight: bold;
           text-align: center;
         }
-        .img {
-          height: 250px;
-          border-radius: 50%;
+        .p {
+          margin-left: 50px;
         }
       `}</style>
   </div>    
