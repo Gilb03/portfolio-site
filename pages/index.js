@@ -1,7 +1,7 @@
 import Layout from '../components/layout'
 import Header from '../components/header'
-import SubmitForm from '../components/form'
-import Socials from '../components/socials'
+// import SubmitForm from '../components/form'
+// import Socials from '../components/socials'
 import About from '../components/about'
 import Projects from '../components/projects'
 import Description from '../components/description'
@@ -14,9 +14,9 @@ export default () => (
     <Header />
     <About />
     <Description />
-    <SubmitForm />
     <Projects />
-    <Socials />
+    {/*<SubmitForm />*/}
+   {/* <Socials /> */}
     <Footer />
   </Layout>
 )

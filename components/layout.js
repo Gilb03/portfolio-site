@@ -4,7 +4,7 @@ import Typekit from 'react-typekit';
 const Layout = ({children}) => (
   <div>
     <Head>
-      <title>{'2nd Shift Consulting'}</title>
+      <title>{'Gil B.'}</title>
       <meta charSet='utf-8' />
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.4.3/css/bulma.css" />
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/react-bootstrap/0.32.4/react-bootstrap.min.js"/>

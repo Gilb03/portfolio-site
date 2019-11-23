@@ -19,8 +19,8 @@ const Socials = () => (
           font-weight: bold;
         }
         img {
-          height: 250px;
-          width:  250px;
+          height: 120px;
+          width:  120px;
           margin-bottom:10px;
           border-radius: 50%;
         }

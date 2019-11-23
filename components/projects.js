@@ -22,6 +22,7 @@ const CurrentProjects = () => (
         #current-projects {
           text-align: center;
           background-color: white;
+          padding-top: 0.5rem;
         }
         img {
           height: 250px;
@@ -30,6 +31,7 @@ const CurrentProjects = () => (
           margin-left: 175px;
           border-radius: 50%;
           text-align: center;
+
         }
         .elevator {
           text-align: center;

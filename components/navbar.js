@@ -4,7 +4,6 @@ const Navbar = (props) => (
       <nav className ="navbar-menu">
         <div className="navbar-start">
           <a className="navbar-item" href="#current-projects">Current Projects</a>
-          <a className="navbar-item" href="#socials">Stay Connected</a>
         </div>
         <div className="navbar-end">
          {<a className="navbar-item" href="https://twitter.com/_gilbproducing" target="_blank">Twitter</a>}
@@ -14,8 +13,8 @@ const Navbar = (props) => (
   <p className="control">
               <a
                 className="button is-white"
-                href="#signup">
-                <span>Newsletter</span>
+                href="https://www.linkedin.com/in/gilbertking/">
+                <span>Linkedin</span>
               </a>
   </p>
           </div>

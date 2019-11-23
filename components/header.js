@@ -7,11 +7,12 @@ const linkStyle = {
 const Header = () => (
   <div>
     <div className="header section">
-      <img className="logo" src="/static/gilb3.jpg" alt="" width="422" height="490"/>
+      {/* */}
+      <img className="logo" src="/static/gilb3.jpg" alt="" width="15" height="55"/>
     </div>
     <style jsx>{`
       .logo {
-        margin-bottom: 15px;
+        margin-bottom: 5px;
       }
       .title {
         font-weight: bold;
@@ -21,11 +22,14 @@ const Header = () => (
         text-align: center;
         background-color: white;
         color: black;
+        padding-right: .5rem;
+        padding-top: .5rem;
+        padding-bottom: .5rem;
       }
       img { 
-        height: 550px;
-      width:  450px;
-      margin-bottom:10px;
+      height: 350px;
+      width:  350px;
+      margin-bottom:5px;
       border-radius: 50%;
       }
     `}</style>
