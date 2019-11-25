@@ -12,7 +12,7 @@ const Header = () => (
     </div>
     <style jsx>{`
       .logo {
-        margin-bottom: 5px;
+        margin-bottom: 1px;
       }
       .title {
         font-weight: bold;

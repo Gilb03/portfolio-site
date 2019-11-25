@@ -27,8 +27,8 @@ const Footer = () => (
           text-align: center;
         }
         img {
-          height: 35px;
-          width:  35px;
+          height: 50px;
+          width:  50px;
           padding: 5px;
           border-radius: 50%;
         }

@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Typekit from 'react-typekit';
 
+
 const Layout = ({children}) => (
   <div>
     <Head>
