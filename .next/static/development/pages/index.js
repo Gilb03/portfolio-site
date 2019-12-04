@@ -18,19 +18,22 @@ __webpack_require__.r(__webpack_exports__);
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 var About = function About() {
-  return __jsx("div", {
-    id: "current-projects",
-    style: {
-      'textAlign': 'center'
-    },
-    className: "jsx-132139745" + " " + "section"
-  }, __jsx("h1", {
-    className: "jsx-132139745" + " " + "title is-1"
-  }, " Hey, I'm Gil \uD83D\uDC4B\uD83C\uDFFE "), __jsx("p", {
-    className: "jsx-132139745"
-  }, "During the day I assist companies in transforming various data point relationships into meaningful strategy for fueling their digital campaigns. I started my career at BLUE KABOOM as an Inbound Marketing Consultant and KROGER as a digital experience associate. I moved to Chicago to go back to school and while I learn, I also work on helping companies win their digital goals. Outside of work, I capture joy and comraderie through my Instagram games and inspirational posts. I am a part-time snacktivist, full time grad student, and on the weekends I mix podcasts and remix hip-hop/house songs."), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "132139745"
-  }, ".elevator.jsx-132139745{text-align:center;}h1.jsx-132139745{text-align:center;}p.jsx-132139745{margin-bottom:10px;font-weight:bold;font-size:20px;border-radius:50%;padding-top:0.5rem;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9naWxiZXJ0a2luZy9zcmMvcG9ydGZvbGlvLXNpdGUvY29tcG9uZW50cy9hYm91dC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFhZ0IsQUFHNkIsQUFHQSxBQUdBLGtCQUxwQixBQUdBLENBR21CLGlCQUNGLGVBQ0csa0JBQ0MsbUJBQ3JCIiwiZmlsZSI6Ii9Vc2Vycy9naWxiZXJ0a2luZy9zcmMvcG9ydGZvbGlvLXNpdGUvY29tcG9uZW50cy9hYm91dC5qcyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IEFib3V0ID0gKCkgPT4gKFxuICAgIDxkaXYgaWQ9XCJjdXJyZW50LXByb2plY3RzXCIgY2xhc3NOYW1lPVwic2VjdGlvblwiIHN0eWxlPXt7J3RleHRBbGlnbic6ICdjZW50ZXInfX0+XG4gICAgPGgxIGNsYXNzTmFtZT1cInRpdGxlIGlzLTFcIj4gSGV5LCBJJ20gR2lsIPCfkYvwn4++IDwvaDE+XG4gICAgPHA+XG4gICAgICAgIER1cmluZyB0aGUgZGF5IEkgYXNzaXN0IGNvbXBhbmllcyBpbiB0cmFuc2Zvcm1pbmcgdmFyaW91cyBkYXRhIHBvaW50IHJlbGF0aW9uc2hpcHNcbiAgICAgaW50byBtZWFuaW5nZnVsIHN0cmF0ZWd5IGZvciBmdWVsaW5nIHRoZWlyIGRpZ2l0YWwgY2FtcGFpZ25zLiBJIHN0YXJ0ZWQgbXkgY2FyZWVyIFxuICAgICBhdCBCTFVFIEtBQk9PTSBhcyBhbiBJbmJvdW5kIE1hcmtldGluZyBDb25zdWx0YW50IGFuZCBLUk9HRVIgYXMgYSBkaWdpdGFsIGV4cGVyaWVuY2VcbiAgICAgYXNzb2NpYXRlLiBJIG1vdmVkIHRvIENoaWNhZ28gdG8gZ28gYmFjayB0byBzY2hvb2wgYW5kIHdoaWxlIEkgbGVhcm4sIEkgYWxzbyB3b3JrIG9uIFxuICAgICBoZWxwaW5nIGNvbXBhbmllcyB3aW4gdGhlaXIgZGlnaXRhbCBnb2Fscy4gT3V0c2lkZSBvZiB3b3JrLCBJIGNhcHR1cmUgam95IGFuZCBjb21yYWRlcmllIFxuICAgICB0aHJvdWdoIG15IEluc3RhZ3JhbSBnYW1lcyBhbmQgaW5zcGlyYXRpb25hbCBwb3N0cy4gSSBhbSBhIHBhcnQtdGltZSBzbmFja3RpdmlzdCwgXG4gICAgIGZ1bGwgdGltZSBncmFkIHN0dWRlbnQsIGFuZCBvbiB0aGUgd2Vla2VuZHMgSSBtaXggcG9kY2FzdHMgYW5kIHJlbWl4IGhpcC1ob3AvaG91c2Ugc29uZ3MuIFxuXG4gICAgPC9wPlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgICAgLmVsZXZhdG9yIHtcbiAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgIH1cbiAgICAgICAgaDF7XG4gICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICB9XG4gICAgICAgIHAge1xuICAgICAgICAgIG1hcmdpbi1ib3R0b206MTBweDtcbiAgICAgICAgICBmb250LXdlaWdodDogYm9sZDtcbiAgICAgICAgICBmb250LXNpemU6IDIwcHg7XG4gICAgICAgICAgYm9yZGVyLXJhZGl1czogNTAlO1xuICAgICAgICAgIHBhZGRpbmctdG9wOiAwLjVyZW07XG4gICAgICAgIH1cbiAgICAgIGB9PC9zdHlsZT48L2Rpdj5cbiAgICBcbilcbmV4cG9ydCBkZWZhdWx0IEFib3V0Il19 */\n/*@ sourceURL=/Users/gilbertking/src/portfolio-site/components/about.js */"));
+  return (
+    /* I need a new headshot picture - more professional*/
+    __jsx("div", {
+      id: "current-projects",
+      style: {
+        'textAlign': 'center'
+      },
+      className: "jsx-132139745" + " " + "section"
+    }, __jsx("h1", {
+      className: "jsx-132139745" + " " + "title is-1"
+    }, " Hey, I'm Gil \uD83D\uDC4B\uD83C\uDFFE "), __jsx("p", {
+      className: "jsx-132139745"
+    }, "During the day I assist companies in transforming various data points into meaningful strategies for fueling digital campaigns among other things. I started my career at Blue Kaboom as an Inbound Marketing Consultant. I later moved to Chicago to go back to school( Go DIBS!). Outside of work, I capture joy and comraderie through games and inspirational Instagram posts. I am a part-time snacktivist, full time grad student, and on the weekends I study, mix podcasts, and remix hip-hop/house music."), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+      id: "132139745"
+    }, ".elevator.jsx-132139745{text-align:center;}h1.jsx-132139745{text-align:center;}p.jsx-132139745{margin-bottom:10px;font-weight:bold;font-size:20px;border-radius:50%;padding-top:0.5rem;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9naWxiZXJ0a2luZy9zcmMvcG9ydGZvbGlvLXNpdGUvY29tcG9uZW50cy9hYm91dC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFXZ0IsQUFHNkIsQUFHQSxBQUdBLGtCQUxwQixBQUdBLENBR21CLGlCQUNGLGVBQ0csa0JBQ0MsbUJBQ3JCIiwiZmlsZSI6Ii9Vc2Vycy9naWxiZXJ0a2luZy9zcmMvcG9ydGZvbGlvLXNpdGUvY29tcG9uZW50cy9hYm91dC5qcyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IEFib3V0ID0gKCkgPT4gKFxuICAvKiBJIG5lZWQgYSBuZXcgaGVhZHNob3QgcGljdHVyZSAtIG1vcmUgcHJvZmVzc2lvbmFsKi9cbiAgICA8ZGl2IGlkPVwiY3VycmVudC1wcm9qZWN0c1wiIGNsYXNzTmFtZT1cInNlY3Rpb25cIiBzdHlsZT17eyd0ZXh0QWxpZ24nOiAnY2VudGVyJ319PlxuICAgIDxoMSBjbGFzc05hbWU9XCJ0aXRsZSBpcy0xXCI+IEhleSwgSSdtIEdpbCDwn5GL8J+PviA8L2gxPlxuICAgIDxwPlxuICAgICAgICBEdXJpbmcgdGhlIGRheSBJIGFzc2lzdCBjb21wYW5pZXMgaW4gdHJhbnNmb3JtaW5nIHZhcmlvdXMgZGF0YSBwb2ludHMgaW50byBcbiAgICAgICAgbWVhbmluZ2Z1bCBzdHJhdGVnaWVzIGZvciBmdWVsaW5nIGRpZ2l0YWwgY2FtcGFpZ25zIGFtb25nIG90aGVyIHRoaW5ncy4gSSBzdGFydGVkIG15IGNhcmVlciBcbiAgICAgYXQgQmx1ZSBLYWJvb20gYXMgYW4gSW5ib3VuZCBNYXJrZXRpbmcgQ29uc3VsdGFudC4gSSBsYXRlciBtb3ZlZCB0byBDaGljYWdvIHRvIGdvIGJhY2sgdG8gc2Nob29sKCBHbyBESUJTISkuXG4gICAgIE91dHNpZGUgb2Ygd29yaywgSSBjYXB0dXJlIGpveSBhbmQgY29tcmFkZXJpZSB0aHJvdWdoIGdhbWVzIGFuZCBpbnNwaXJhdGlvbmFsIEluc3RhZ3JhbSBwb3N0cy4gXG4gICAgIEkgYW0gYSBwYXJ0LXRpbWUgc25hY2t0aXZpc3QsIGZ1bGwgdGltZSBncmFkIHN0dWRlbnQsIGFuZCBvbiB0aGUgd2Vla2VuZHMgSSBzdHVkeSwgbWl4IHBvZGNhc3RzLCBhbmQgcmVtaXggaGlwLWhvcC9ob3VzZSBtdXNpYy4gIFxuICAgIDwvcD5cbiAgICA8c3R5bGUganN4PntgXG4gICAgICAgIC5lbGV2YXRvciB7XG4gICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICB9XG4gICAgICAgIGgxe1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgfVxuICAgICAgICBwIHtcbiAgICAgICAgICBtYXJnaW4tYm90dG9tOjEwcHg7XG4gICAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgICAgICAgZm9udC1zaXplOiAyMHB4O1xuICAgICAgICAgIGJvcmRlci1yYWRpdXM6IDUwJTtcbiAgICAgICAgICBwYWRkaW5nLXRvcDogMC41cmVtO1xuICAgICAgICB9XG4gICAgICBgfTwvc3R5bGU+PC9kaXY+XG4gICAgXG4pXG5leHBvcnQgZGVmYXVsdCBBYm91dCJdfQ== */\n/*@ sourceURL=/Users/gilbertking/src/portfolio-site/components/about.js */"))
+  );
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (About);
@@ -308,43 +311,68 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 var CurrentProjects = function CurrentProjects() {
   return __jsx("div", {
-    className: "jsx-1028146266"
+    className: "jsx-3910017290"
   }, __jsx("div", {
     id: "current-projects",
     "class": "center",
     style: {
       'textAlign': 'center'
     },
-    className: "jsx-1028146266" + " " + "section"
+    className: "jsx-3910017290" + " " + "section"
   }, __jsx("h1", {
-    className: "jsx-1028146266" + " " + "title is-2"
+    className: "jsx-3910017290" + " " + "title is-2"
   }, "Current Projects")), __jsx("div", {
-    className: "jsx-1028146266" + " " + "columns"
+    className: "jsx-3910017290" + " " + "row"
   }, __jsx("div", {
-    className: "jsx-1028146266" + " " + "column"
+    className: "jsx-3910017290" + " " + "columns"
+  }, __jsx("div", {
+    className: "jsx-3910017290" + " " + "column"
   }, __jsx("img", {
+    href: "https://podcasts.apple.com/us/podcast/shoot-your-shot-pod/id1333642650",
     src: "/static/syspod.png",
     alt: "",
     target: "_blank",
-    className: "jsx-1028146266"
+    className: "jsx-3910017290"
   }), __jsx("h3", {
-    className: "jsx-1028146266" + " " + "title is-3"
+    className: "jsx-3910017290" + " " + "title is-3"
   }, "Shoot Your Shot Podcast"), __jsx("p", {
-    className: "jsx-1028146266"
-  }, "Hey, we\u2019re all here to grow our networks, relax, vibe and get productive. We will be having weekly discussions centered around growing comfortability in expressing our ideas and becoming tighter knit in the process. Plain and simple! ")), __jsx("div", {
-    className: "jsx-1028146266" + " " + "column"
+    className: "jsx-3910017290"
+  }, "A podcast designed to delve deeper into dating, relationship & gender issues for the millennial in the 21st century.")), __jsx("div", {
+    className: "jsx-3910017290" + " " + "column"
   }, __jsx("img", {
-    src: "/static/gilbproducing.jpg",
+    src: "/static/wfw.png",
     alt: "",
     target: "_blank",
-    className: "jsx-1028146266"
+    className: "jsx-3910017290"
   }), __jsx("h3", {
-    className: "jsx-1028146266" + " " + "title is-3"
+    className: "jsx-3910017290" + " " + "title is-3"
+  }, "Workflow Wednesday"), __jsx("p", {
+    className: "jsx-3910017290"
+  }, "Connect with other ambitious individuals in a variety of different fields. Gain access to other perspectives and brainstorm for your passion projects. We are a networking program dedicated to increasing job placement in technology.  ")), __jsx("div", {
+    className: "jsx-3910017290" + " " + "column"
+  }, __jsx("img", {
+    src: "/static/taron-const.jpg",
+    alt: "",
+    target: "_blank",
+    className: "jsx-3910017290"
+  }), __jsx("h3", {
+    className: "jsx-3910017290" + " " + "title is-3"
   }, "Foxworth Consulting"), __jsx("p", {
-    className: "jsx-1028146266"
-  }, "There is no commitment necessary. Everybody is dealing with enough priority overload already. We should flow, and that\u2019s just how it goes. Fox will eventually tell thew world what he wants to do and when that's decided it will be here."))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "1028146266"
-  }, "#current-projects.jsx-1028146266{text-align:center;background-color:white;padding-top:0.5rem;}img.jsx-1028146266{height:250px;width:250px;margin-bottom:10px;margin-left:175px;border-radius:50%;}.elevator.jsx-1028146266{text-align:center;}.columns.jsx-1028146266{padding:30px;}.title.jsx-1028146266{font-weight:bold;text-align:center;}.p.jsx-1028146266{text-align:center;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9naWxiZXJ0a2luZy9zcmMvcG9ydGZvbGlvLXNpdGUvY29tcG9uZW50cy9wcm9qZWN0cy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFxQmdCLEFBRzJCLEFBS0wsQUFRSyxBQUdMLEFBR0ksQUFJQyxhQWpCTCxBQVdmLElBR29CLENBbkJLLEFBYXpCLEFBV0EsT0FsQm9CLFVBY3BCLE1BbkJxQixHQU1ELGdCQUxwQixFQU1vQixrQkFFcEIiLCJmaWxlIjoiL1VzZXJzL2dpbGJlcnRraW5nL3NyYy9wb3J0Zm9saW8tc2l0ZS9jb21wb25lbnRzL3Byb2plY3RzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiY29uc3QgQ3VycmVudFByb2plY3RzID0gKCkgPT4gKFxuICA8ZGl2PlxuICAgIHsvKiBUdXJuIHRoZSBjdXJyZW50IHByb2plY3Qgc2VjdGlvbiBpbnRvIGEgc2xpZGVzaG93IGFuZCB0aGVuIGJlIGRvbmUgKi99XG4gIDxkaXYgaWQ9XCJjdXJyZW50LXByb2plY3RzXCIgY2xhc3NOYW1lPVwic2VjdGlvblwiIGNsYXNzPVwiY2VudGVyXCIgc3R5bGU9e3sndGV4dEFsaWduJzogJ2NlbnRlcid9fT5cbiAgICA8aDEgY2xhc3NOYW1lPVwidGl0bGUgaXMtMlwiPkN1cnJlbnQgUHJvamVjdHM8L2gxPlxuICAgIDwvZGl2PlxuICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uc1wiPlxuICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtblwiPlxuICAgICA8aW1nIHNyYz1cIi9zdGF0aWMvc3lzcG9kLnBuZ1wiIGFsdD1cIlwiIHRhcmdldD1cIl9ibGFua1wiPjwvaW1nPlxuICAgICAgICA8aDMgY2xhc3NOYW1lPVwidGl0bGUgaXMtM1wiPlNob290IFlvdXIgU2hvdCBQb2RjYXN0PC9oMz5cbiAgICAgICAgPHA+SGV5LCB3ZeKAmXJlIGFsbCBoZXJlIHRvIGdyb3cgb3VyIG5ldHdvcmtzLCByZWxheCwgdmliZSBhbmQgZ2V0IHByb2R1Y3RpdmUuIFdlIHdpbGwgYmUgaGF2aW5nIHdlZWtseSBkaXNjdXNzaW9ucyBjZW50ZXJlZCBhcm91bmQgZ3Jvd2luZyBjb21mb3J0YWJpbGl0eSBcbiAgICAgICAgICBpbiBleHByZXNzaW5nIG91ciBpZGVhcyBhbmQgYmVjb21pbmcgdGlnaHRlciBrbml0IGluIHRoZSBwcm9jZXNzLiBQbGFpbiBhbmQgc2ltcGxlISA8L3A+XG4gICAgIDwvZGl2PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb2x1bW5cIj5cbiAgICAgIDxpbWcgc3JjPVwiL3N0YXRpYy9naWxicHJvZHVjaW5nLmpwZ1wiIGFsdD1cIlwiIHRhcmdldD1cIl9ibGFua1wiPjwvaW1nPlxuICAgICAgICA8aDMgY2xhc3NOYW1lPVwidGl0bGUgaXMtM1wiPkZveHdvcnRoIENvbnN1bHRpbmc8L2gzPlxuICAgICAgICA8cD5UaGVyZSBpcyBubyBjb21taXRtZW50IG5lY2Vzc2FyeS4gRXZlcnlib2R5IGlzIGRlYWxpbmcgd2l0aCBlbm91Z2ggcHJpb3JpdHkgb3ZlcmxvYWQgYWxyZWFkeS4gV2Ugc2hvdWxkIGZsb3csIGFuZCB0aGF04oCZcyBqdXN0IGhvdyBpdCBnb2VzLiBGb3ggXG4gICAgICAgICAgd2lsbCBldmVudHVhbGx5IHRlbGwgdGhldyB3b3JsZCB3aGF0IGhlIHdhbnRzIHRvIGRvIGFuZCB3aGVuIHRoYXQncyBkZWNpZGVkIGl0IHdpbGwgYmUgaGVyZS4gXG4gICAgICAgIDwvcD5cbiAgICAgIDwvZGl2PlxuICAgIDwvZGl2PlxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgICNjdXJyZW50LXByb2plY3RzIHtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTtcbiAgICAgICAgcGFkZGluZy10b3A6IDAuNXJlbTtcbiAgICAgIH1cbiAgICAgIGltZyB7XG4gICAgICAgIGhlaWdodDogMjUwcHg7XG4gICAgICAgIHdpZHRoOiAgMjUwcHg7XG4gICAgICAgIG1hcmdpbi1ib3R0b206MTBweDtcbiAgICAgICAgbWFyZ2luLWxlZnQ6IDE3NXB4O1xuICAgICAgICBib3JkZXItcmFkaXVzOiA1MCU7XG5cbiAgICAgIH1cbiAgICAgIC5lbGV2YXRvciB7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgIH1cbiAgICAgIC5jb2x1bW5zIHtcbiAgICAgICAgcGFkZGluZzogMzBweDtcbiAgICAgIH1cbiAgICAgIC50aXRsZSB7XG4gICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkO1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICB9XG4gICAgICAucCB7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcblxuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbjwvZGl2PiAgICBcbilcbmV4cG9ydCBkZWZhdWx0IEN1cnJlbnRQcm9qZWN0cyJdfQ== */\n/*@ sourceURL=/Users/gilbertking/src/portfolio-site/components/projects.js */"));
+    className: "jsx-3910017290"
+  }, "Creating IoT solutions for businesses. Transforming the landscape of technology by investing in people's education.")), __jsx("div", {
+    className: "jsx-3910017290" + " " + "column"
+  }, __jsx("img", {
+    src: "/static/triibe.png",
+    alt: "",
+    target: "_blank",
+    className: "jsx-3910017290"
+  }), __jsx("h3", {
+    className: "jsx-3910017290" + " " + "title is-3"
+  }, "The Triibe"), __jsx("p", {
+    className: "jsx-3910017290"
+  }, "A digital media platform showcasing innovative content to reshape the narrative of Black Chicago. Our original works in journalism and documentary, alongside cretive writing and video, capture the multifaceted essense of our communities. We aim to create a safer more vibrant Chicago.")))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+    id: "3910017290"
+  }, "#current-projects.jsx-3910017290{text-align:center;background-color:white;padding-top:0.5rem;}img.jsx-3910017290{height:250px;width:250px;margin-bottom:10px;}.elevator.jsx-3910017290{text-align:center;}.columns.jsx-3910017290{padding:30px;}.title.jsx-3910017290{font-weight:bold;text-align:center;}.p.jsx-3910017290{text-align:center;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9naWxiZXJ0a2luZy9zcmMvcG9ydGZvbGlvLXNpdGUvY29tcG9uZW50cy9wcm9qZWN0cy5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFzQ2dCLEFBRzJCLEFBS0wsQUFRSyxBQUdOLEFBR0ssQUFJQyxhQWpCTCxBQVdmLElBR29CLENBbkJLLEFBYXpCLEFBV0EsT0FsQm9CLFVBY3BCLE1BbkJxQixHQVNyQixnQkFSQSIsImZpbGUiOiIvVXNlcnMvZ2lsYmVydGtpbmcvc3JjL3BvcnRmb2xpby1zaXRlL2NvbXBvbmVudHMvcHJvamVjdHMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCBDdXJyZW50UHJvamVjdHMgPSAoKSA9PiAoXG4gIDxkaXY+XG4gICAgey8qIGltZyBzdHlsZT0gYm9yZGVyLXJhZGl1czogNSU7IHwgbWFrZSBzdHlsZSBjaGFuZ2VzIGJlZm9yZSBkZXBsb3ltZW50ICovfVxuICA8ZGl2IGlkPVwiY3VycmVudC1wcm9qZWN0c1wiIGNsYXNzTmFtZT1cInNlY3Rpb25cIiBjbGFzcz1cImNlbnRlclwiIHN0eWxlPXt7J3RleHRBbGlnbic6ICdjZW50ZXInfX0+XG4gICAgPGgxIGNsYXNzTmFtZT1cInRpdGxlIGlzLTJcIj5DdXJyZW50IFByb2plY3RzPC9oMT5cbiAgICA8L2Rpdj5cbiAgICA8ZGl2IGNsYXNzTmFtZT1cInJvd1wiPlxuICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sdW1uc1wiPlxuICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtblwiPlxuICAgICA8aW1nIGhyZWY9XCJodHRwczovL3BvZGNhc3RzLmFwcGxlLmNvbS91cy9wb2RjYXN0L3Nob290LXlvdXItc2hvdC1wb2QvaWQxMzMzNjQyNjUwXCJzcmM9XCIvc3RhdGljL3N5c3BvZC5wbmdcIiBhbHQ9XCJcIiB0YXJnZXQ9XCJfYmxhbmtcIj48L2ltZz5cbiAgICAgICAgPGgzIGNsYXNzTmFtZT1cInRpdGxlIGlzLTNcIj5TaG9vdCBZb3VyIFNob3QgUG9kY2FzdDwvaDM+XG4gICAgICAgIDxwPkEgcG9kY2FzdCBkZXNpZ25lZCB0byBkZWx2ZSBkZWVwZXIgaW50byBkYXRpbmcsIHJlbGF0aW9uc2hpcCAmIGdlbmRlciBpc3N1ZXMgZm9yIHRoZSBtaWxsZW5uaWFsIGluIHRoZSAyMXN0IGNlbnR1cnkuPC9wPlxuICAgICA8L2Rpdj5cbiAgICAgPGRpdiBjbGFzc05hbWU9XCJjb2x1bW5cIj5cbiAgICAgIDxpbWcgc3JjPVwiL3N0YXRpYy93ZncucG5nXCIgYWx0PVwiXCIgdGFyZ2V0PVwiX2JsYW5rXCI+PC9pbWc+XG4gICAgICAgIDxoMyBjbGFzc05hbWU9XCJ0aXRsZSBpcy0zXCI+V29ya2Zsb3cgV2VkbmVzZGF5PC9oMz5cbiAgICAgICAgPHA+Q29ubmVjdCB3aXRoIG90aGVyIGFtYml0aW91cyBpbmRpdmlkdWFscyBpbiBhIHZhcmlldHkgb2YgZGlmZmVyZW50IGZpZWxkcy4gXG4gICAgICAgICAgR2FpbiBhY2Nlc3MgdG8gb3RoZXIgcGVyc3BlY3RpdmVzIGFuZCBicmFpbnN0b3JtIGZvciB5b3VyIHBhc3Npb24gcHJvamVjdHMuIFxuICAgICAgICAgIFdlIGFyZSBhIG5ldHdvcmtpbmcgcHJvZ3JhbSBkZWRpY2F0ZWQgdG8gaW5jcmVhc2luZyBqb2IgcGxhY2VtZW50XG4gICAgICAgICAgaW4gdGVjaG5vbG9neS4gIDwvcD5cbiAgICAgIDwvZGl2PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb2x1bW5cIj5cbiAgICAgIDxpbWcgc3JjPVwiL3N0YXRpYy90YXJvbi1jb25zdC5qcGdcIiBhbHQ9XCJcIiB0YXJnZXQ9XCJfYmxhbmtcIj48L2ltZz5cbiAgICAgICAgPGgzIGNsYXNzTmFtZT1cInRpdGxlIGlzLTNcIj5Gb3h3b3J0aCBDb25zdWx0aW5nPC9oMz5cbiAgICAgICAgPHA+Q3JlYXRpbmcgSW9UIHNvbHV0aW9ucyBmb3IgYnVzaW5lc3Nlcy4gVHJhbnNmb3JtaW5nIHRoZSBsYW5kc2NhcGUgb2YgdGVjaG5vbG9neSBieSBpbnZlc3RpbmcgaW5cbiAgICAgICAgICBwZW9wbGUncyBlZHVjYXRpb24uICBcbiAgICAgICAgPC9wPlxuICAgICAgPC9kaXY+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbHVtblwiPlxuICAgICAgPGltZyBzcmM9XCIvc3RhdGljL3RyaWliZS5wbmdcIiBhbHQ9XCJcIiB0YXJnZXQ9XCJfYmxhbmtcIj48L2ltZz5cbiAgICAgICAgPGgzIGNsYXNzTmFtZT1cInRpdGxlIGlzLTNcIj5UaGUgVHJpaWJlPC9oMz5cbiAgICAgICAgPHA+QSBkaWdpdGFsIG1lZGlhIHBsYXRmb3JtIHNob3djYXNpbmcgaW5ub3ZhdGl2ZSBjb250ZW50IHRvIHJlc2hhcGUgdGhlIG5hcnJhdGl2ZSBvZiBCbGFjayBDaGljYWdvLiBcbiAgICAgICAgICBPdXIgb3JpZ2luYWwgd29ya3MgaW4gam91cm5hbGlzbSBhbmQgZG9jdW1lbnRhcnksIGFsb25nc2lkZSBjcmV0aXZlIHdyaXRpbmcgYW5kIHZpZGVvLCBjYXB0dXJlIHRoZSBcbiAgICAgICAgICBtdWx0aWZhY2V0ZWQgZXNzZW5zZSBvZiBvdXIgY29tbXVuaXRpZXMuIFdlIGFpbSB0byBjcmVhdGUgYSBzYWZlciBtb3JlIHZpYnJhbnQgQ2hpY2Fnby4gXG4gICAgICAgIDwvcD5cbiAgICAgIDwvZGl2PlxuICAgICAgPC9kaXY+XG4gICAgPC9kaXY+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgI2N1cnJlbnQtcHJvamVjdHMge1xuICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgIGJhY2tncm91bmQtY29sb3I6IHdoaXRlO1xuICAgICAgICBwYWRkaW5nLXRvcDogMC41cmVtO1xuICAgICAgfVxuICAgICAgaW1nIHtcbiAgICAgICAgaGVpZ2h0OiAyNTBweDtcbiAgICAgICAgd2lkdGg6ICAyNTBweDtcbiAgICAgICAgbWFyZ2luLWJvdHRvbToxMHB4O1xuICAgICAgICBcbiAgICAgXG5cbiAgICAgIH1cbiAgICAgIC5lbGV2YXRvciB7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgIH1cbiAgICAgIC5jb2x1bW5zIHtcbiAgICAgICBwYWRkaW5nOiAzMHB4O1xuICAgICAgfVxuICAgICAgLnRpdGxlIHtcbiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XG4gICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgIH1cbiAgICAgIC5wIHtcbiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuXG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuPC9kaXY+ICAgIFxuKVxuZXhwb3J0IGRlZmF1bHQgQ3VycmVudFByb2plY3RzIl19 */\n/*@ sourceURL=/Users/gilbertking/src/portfolio-site/components/projects.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (CurrentProjects);
@@ -14970,7 +14998,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!*********************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fgilbertking%2Fsrc%2Fportfolio-site%2Fpages%2Findex.js ***!
   \*********************************************************************************************************************************/
@@ -14993,5 +15021,5 @@ module.exports = dll_b35e09dc2ca94ac6d9c1;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
