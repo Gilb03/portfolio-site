@@ -1,6 +1,5 @@
 const CurrentProjects = () => (
   <div>
-    {/* img style= border-radius: 5%; | make style changes before deployment */}
   <div id="current-projects" className="section" class="center" style={{'textAlign': 'center'}}>
     <h1 className="title is-2">Current Projects</h1>
     </div>
@@ -46,9 +45,12 @@ const CurrentProjects = () => (
         height: 250px;
         width:  250px;
         margin-bottom:10px;
-        
-     
+   
 
+      }
+
+      h1{
+        border-radius: 5px;
       }
       .elevator {
         text-align: center;
