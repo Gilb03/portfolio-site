@@ -7,7 +7,7 @@ const linkStyle = {
 const Header = () => (
   <div>
     <div className="header section">
-      <img className="logo" src="/static/IMG_6038.jpg" alt="" width="15" height="55"/>
+      <img className="logo" src="/static/gilfinal.jpg" alt="" width="15" height="55"/>
     </div>
     <style jsx>{`
       .logo {
