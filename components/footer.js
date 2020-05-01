@@ -2,9 +2,9 @@ const Footer = () => (
     <div id="footer" className="section" style={{'textAlign': 'center'}}>
     <div className="columns">
     <div className="column">
-    <a href="https://www.twitter.com/_gilbproducing" target="_blank">
+      <a href="https://www.twitter.com/_gilbproducing" target="_blank">
     <img src="/static/twitter.png" alt="" /></a>
-    <a href="https://www.linkedin.com/in/gilbertking/" target="_blank">
+      <a href="https://www.linkedin.com/in/gilbertking/" target="_blank">
     <img src="/static/linkedin.png" alt="" /></a>
     </div>
     </div>
@@ -14,6 +14,7 @@ const Footer = () => (
           background-color: #282828;
           color: white;
           height: 160px;
+          padding: 50px;
         }
         .title {
           color: white;
